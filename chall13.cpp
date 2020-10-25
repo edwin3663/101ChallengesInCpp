@@ -1,7 +1,7 @@
 /** Computes the Cardano Triplits that exist for an a+b+c <= 100
-    @file
+    @file chall13.cpp
     @author Peter Saffold
-    @date
+    @date 10/25/2020
 */
 #include <iostream>
 #include <cmath>
